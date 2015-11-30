@@ -1,10 +1,6 @@
 # vim-sexp-demo
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+Just a little something to use while making an editor demo.
 
 ## License
 
